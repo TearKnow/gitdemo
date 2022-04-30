@@ -5,3 +5,7 @@ test3
 word1
 word2
 word3
+
+file1
+file2
+file3
