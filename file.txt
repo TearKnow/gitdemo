@@ -9,7 +9,3 @@ word3
 file1
 file2
 file3
-
-ddd111
-ddd222
-ddd333
